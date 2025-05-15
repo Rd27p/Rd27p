@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Raka
+My name is Raka and Im a second year software engineering student at telkom university
 
 
 # 💻 Tech Stack:
