@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Raka and Im a second year software engineering student at telkom university
+I'm currently a second-year student majoring in Software Engineering at Telkom University, where I’m deeply engaged in exploring the fields of web development. My passion is creating interactive, visually appealing, and user-centered digital experiences. Through my coursework and personal projects, I'm continuously enhancing my skills in coding and design to become proficient in building functional and aesthetically pleasing websites. As I advance in my studies, I aim to deepen my knowledge in FrontEnd development.
 
 
 # 💻 Tech Stack:
