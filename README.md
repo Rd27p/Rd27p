@@ -4,7 +4,7 @@
 
 ### Software Engineering Student · Frontend Developer
 
-Third-year Software Engineering student at Telkom University, passionate about crafting interactive, visually appealing, and user-centered digital experiences.
+Final-year Software Engineering student at Telkom University, passionate about crafting interactive, visually appealing, and user-centered digital experiences.
 
 </div>
 
