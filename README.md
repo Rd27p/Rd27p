@@ -4,7 +4,7 @@
 
 ### Software Engineering Student · Frontend Developer
 
-Final-year Software Engineering student at Telkom University, passionate about crafting interactive, visually appealing, and user-centered digital experiences.
+Third-year Software Engineering student at Telkom University, passionate about crafting interactive, visually appealing, and user-centered digital experiences.
 
 </div>
 
@@ -64,6 +64,7 @@ Final-year Software Engineering student at Telkom University, passionate about c
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 **Tools**
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
